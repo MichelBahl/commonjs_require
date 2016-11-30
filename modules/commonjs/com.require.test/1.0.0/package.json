@@ -1,0 +1,11 @@
+{
+  "name": "databaseport",
+  "version": "1.0.0",
+  "description": "A Module that is able to export and import Databases",
+  "main": "databasePort.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "IntelliNet Beratung und Technologie GmbH",
+  "license": "MIT"
+}

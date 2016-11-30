@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+architectures: armv7 arm64 i386 x86_64
+description: de.intellinet.databaseport
+author: IntelliNet Beratung und Technologie GmbH
+license: MIT
+copyright: Copyright (c) 2016 by IntelliNet Beratung und Technologie GmbH
+
+# these should not be edited
+name: databasePort
+moduleid: de.intellinet.databaseport
+guid: 98fb4bcc-25a3-41e4-822f-f801c86b0b55
+minsdk: 4.0.0.GA
